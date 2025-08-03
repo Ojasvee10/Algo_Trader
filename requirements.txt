@@ -1,0 +1,11 @@
+yfinance
+ta
+pandas
+scikit-learn
+gspread
+oauth2client
+python-telegram-bot==13.15
+python-dotenv
+pandas-ta
+gspread-dataframe
+requests
